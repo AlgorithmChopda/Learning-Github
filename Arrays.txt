@@ -1,0 +1,1 @@
+File that stores information about Arrays Data structure.
